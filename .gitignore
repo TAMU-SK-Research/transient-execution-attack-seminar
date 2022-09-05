@@ -1,0 +1,6 @@
+*.pyc
+build
+cscope
+cscope.out
+parsetab.py
+m5out
